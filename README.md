@@ -26,4 +26,4 @@
    1. [Tutorial_Matplotlib_and_Pandas](Week_1/Tutorial_Matplotlib_and_Pandas.ipynb)
 
 <!-- Footer -->
-`Copyright © 2021 - Đỗ Trọng Khánh`
+<p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
