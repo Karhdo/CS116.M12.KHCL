@@ -21,5 +21,9 @@
 * **Năm học:** HK1 (2021 - 2022)
 * **Giảng viên**: TS.Nguyễn Vinh Tiệp
 
+## QUÁ TRÌNH
+### Week 1: Làm quen với Python
+   1. [Tutorial_Matplotlib_and_Pandas](Week_1/Tutorial_Matplotlib_and_Pandas.ipynb)
+
 <!-- Footer -->
 `Copyright © 2021 - Đỗ Trọng Khánh`
