@@ -23,7 +23,9 @@
 
 ## QUÁ TRÌNH
 ### Week 1: Làm quen với Python
-   1. [Tutorial_Matplotlib_and_Pandas](Week_1/Tutorial_Matplotlib_and_Pandas.ipynb)
+   1. [Tutorial Numpy](Week_1/Tutorial_Numpy.ipynb)
+   2. [Tutorial Pandas](Week_1/Tutorial_Pandas.ipynb)
+   3. [Tutorial Matplotlib](Week_1/Tutorial_Matplotlib.ipynb)
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
