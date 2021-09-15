@@ -27,4 +27,4 @@
    2. [Tutorial Pandas.](Week_1/Tutorial_Pandas.ipynb)
 
 <!-- Footer -->
-<p align='center'>- Copyright © 2021 - Đỗ Trọng Khánh -</p>
+<p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
