@@ -22,9 +22,12 @@
 * **Giảng viên**: TS.Nguyễn Vinh Tiệp
 
 ## QUÁ TRÌNH
-### Week 1: Làm quen với Python
+### Week 1: Làm quen với Python.
    1. [Tutorial Numpy.](Week_1/Tutorial_Numpy.ipynb) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3. [Tutorial Matplotlib.](Week_1/Tutorial_Matplotlib.ipynb)
    2. [Tutorial Pandas.](Week_1/Tutorial_Pandas.ipynb) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;4. [Tutorial Seaborn.](Week_1/Seaborn.ipynb)
+
+### Week 2: Thống kê và Trực quan hoá dữ liệu trên bản đồ.
+  - Bài tập: [Thống kê dữ liệu ở TP-HCM](Week_2/Thống_kê_dân_số_TPHCM.ipynb) và [Hiện thị ranh giới các quận trên bản đồ](Week_2/Hiển_thị_ranh_giới_quận_trên_bản_đồ.ipynb).
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
