@@ -27,8 +27,22 @@
    2. [Tutorial Pandas.](Week_1/Tutorial_Pandas.ipynb) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;4. [Tutorial Seaborn.](Week_1/Seaborn.ipynb)
 
 ### Week 2: Thống kê và Trực quan hoá dữ liệu trên bản đồ.
-  <img src='https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/ddb5fa11853bca660bb5c2b299f40a5e3a4109ae/Image/Week_2.png' width='50%'></img>
+<table>
+<tr>
+  <td width='50%'>
+    <img src='https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/ddb5fa11853bca660bb5c2b299f40a5e3a4109ae/Image/Week_2.png'></img>
+  </td>
+  <td>
+    - Đặc điểm của dữ liệu có cấu trúc:</br>
+    &emsp;&emsp;+ Có các trường(cột) có thuộc tính cố định</br>
+    &emsp;&emsp;+ Ý nghĩa các trường không thay đổi</br>
+    &emsp;&emsp;+ Dữ liệu thống nhất</br></br>
+    - Dữ liệu bảng + Không gian (Geographic Information System)</br>
+    &emsp;&emsp;+ Geographic: Polypoint, Polyline, Polygun</br>
+  </td>
+</tr>
+  <table>
   - Bài tập: [Thống kê dữ liệu ở TP-HCM](Week_2/Thống_kê_dân_số_TPHCM.ipynb) và [Hiện thị ranh giới các quận trên bản đồ](Week_2/Hiển_thị_ranh_giới_quận_trên_bản_đồ.ipynb).
-
+  
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
