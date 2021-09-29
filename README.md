@@ -45,5 +45,7 @@
   
   - Bài tập: [Thống kê dữ liệu ở TP-HCM](Week_2/Thống_kê_dân_số_TPHCM.ipynb) và [Hiện thị ranh giới các quận trên bản đồ](Week_2/Hiển_thị_ranh_giới_quận_trên_bản_đồ.ipynb).
   
+### Week 3: Phân tích hành vi click với KMeans.
+  - Bài tập: [Phân tích hành vi click của các quận của TP-HCM trên bản đồ.]()
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
