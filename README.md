@@ -46,8 +46,10 @@
   - Bài tập: [Thống kê dữ liệu ở TP-HCM](Week_2/Thống_kê_dân_số_TPHCM.ipynb) và [Hiện thị ranh giới các quận trên bản đồ](Week_2/Hiển_thị_ranh_giới_quận_trên_bản_đồ.ipynb).
   
 ### Week 3: Phân tích hành vi click với KMeans.
-  <img height=400 src='https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/86b5b5443b473b67e8f0eb98ec18d037b949e7ba/Image/week3.png'></img>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img height=400 src='https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/86b5b5443b473b67e8f0eb98ec18d037b949e7ba/Image/week3.png'></img>
   
   - Bài tập: [Phân tích hành vi click của các quận của TP-HCM trên bản đồ.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/d3c6b14510918129373e294550cc6c9eb1d850c2/Week_3/Pha%CC%82n_ti%CC%81ch_ha%CC%80nh_vi_click_vo%CC%9B%CC%81i_KMeans.ipynb)
+
+### Week 4: Principal Component Analysis.
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
