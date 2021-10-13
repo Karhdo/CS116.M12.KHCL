@@ -53,7 +53,7 @@
 ### Week 4: Principal Component Analysis.
 
 ### Week 5: Use PCA for Logistic Regression.
-- Bài tập: [PCA và Logistic Regression để phân loại rượu tới hạn]()
+- Bài tập: [PCA và Logistic Regression để phân loại rượu.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/2d4a945a324db20ed84f964ef98c2abad7424976/Week_5/PCA_for_classification.ipynb)
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
