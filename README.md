@@ -51,7 +51,7 @@
   - Bài tập: [Phân tích hành vi click của các quận của TP-HCM trên bản đồ.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/d3c6b14510918129373e294550cc6c9eb1d850c2/Week_3/Pha%CC%82n_ti%CC%81ch_ha%CC%80nh_vi_click_vo%CC%9B%CC%81i_KMeans.ipynb)
 
 ### Week 4: Principal Component Analysis.
-
+- Bài tập: [PCA normal.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/929302dfdf9b663c53215b91cf3e46f7170727fe/Week_4/PCA_homework_normal.ipynb)
 ### Week 5: Use PCA for Logistic Regression.
 - Bài tập: [PCA và Logistic Regression để phân loại rượu.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/2d4a945a324db20ed84f964ef98c2abad7424976/Week_5/PCA_for_classification.ipynb)
 
