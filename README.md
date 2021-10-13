@@ -51,5 +51,9 @@
   - Bài tập: [Phân tích hành vi click của các quận của TP-HCM trên bản đồ.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/d3c6b14510918129373e294550cc6c9eb1d850c2/Week_3/Pha%CC%82n_ti%CC%81ch_ha%CC%80nh_vi_click_vo%CC%9B%CC%81i_KMeans.ipynb)
 
 ### Week 4: Principal Component Analysis.
+
+### Week 5: Use PCA for Logistic Regression.
+- Bài tập: [PCA và Logistic Regression để phân loại rượu tới hạn]()
+
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
