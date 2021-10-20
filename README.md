@@ -52,8 +52,18 @@
 
 ### Week 4: Principal Component Analysis.
 - Bài tập: [PCA normal.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/929302dfdf9b663c53215b91cf3e46f7170727fe/Week_4/PCA_homework_normal.ipynb)
+
 ### Week 5: Use PCA for Logistic Regression.
 - Bài tập: [PCA và Logistic Regression để phân loại rượu.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/2d4a945a324db20ed84f964ef98c2abad7424976/Week_5/PCA_for_classification.ipynb)
+
+### Week 6: Cassification Social Network Ads.
+- Bước 1: Đọc dữ liệu từ file .csv.
+- Bước 2: Phân chia dữ liệu thành tập train và tập test theo tỉ lệ 8:2.
+- Bước 3: Chuẩn hóa dữ liệu.
+- Bước 4: Khởi tạo và huấn luyện các mô hình.
+- Bước 5: Infer và đánh giá mô hình với độ đo accuracy.
+- Bước 6: Trực quan hóa kết quả của mô hình vừa huấn luyện.
+- Code: [Cassification Social Network Ads.]()
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
