@@ -66,7 +66,7 @@
 - Bài tập: [Cassification Social Network Ads.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/e128551e73927f2b0f1f7c1fa1d4c81d0d49b04a/Week_6/Cassification_Social_Network_Ads.ipynb)
 
 ### Week 7: Mô Hình Linear Regression Đơn Và Đa Biến.
-- Bài tập: [Linear Regression Đơn Và Đa Biến.]()
+- Bài tập: [Linear Regression Đơn Và Đa Biến.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/e6dfd22d013ffe03cdf50ccf59d6e41ef32f3d15/Week_7/Linear_Regression.ipynb)
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
