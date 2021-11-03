@@ -70,12 +70,12 @@
 
 ### Week 8: Xây Dựng Mô Hình Mạng Neural Network.
   - Bước 1: Đọc dữ liệu từ file excel/csv.
-  - Bước 2: Chuẩn hóa các cột dữ liệu thuộc dạng không có tình thứ tự (dữ liệu rời rạc) thành dạng One Hot Encoding.
+  - Bước 2: Chuẩn hóa các cột dữ liệu thuộc dạng không có tình thứ tự (dữ liệu rời rạc) thành dạng `One Hot Encoding`.
   - Bước 4: Chuẩn hóa dữ liệu train bằng Standard Scaler.
   - Bước 5: Xây dựng mô hình Mạng Neural Network bằng thư viện Keras và lớp đối tượng Dense, Input - 6 neurons/ReLU - 6 neurons/ReLU - 1 neuron / sigmoid.
-  - Bước 6: huấn luyện mạng với thuật toán Adam sử dụng hàm độ lỗi Binary Cross Entropy.
+  - Bước 6: Huấn luyện mạng với thuật toán `Adam` sử dụng hàm độ lỗi `Binary Cross Entropy`.
   - Bước 7: Test và đánh giá kết quả.
-  - Bước 8: đánh giá độ chính xác bằng phương pháp KFold Cross Validation với k = 5.
+  - Bước 8: Đánh giá độ chính xác bằng phương pháp `KFold Cross Validation` với k = 5.
   - Bài tập: [Xây Dựng Mô Hình Mạng Neural Network.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/c50a69617ecfbc1dd2d324fb7f27d73281db30b6/Week_8/Deep_Learning.ipynb)
 
 <!-- Footer -->
