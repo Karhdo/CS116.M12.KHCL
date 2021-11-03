@@ -57,16 +57,26 @@
 - Bài tập: [PCA và Logistic Regression để phân loại rượu.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/2d4a945a324db20ed84f964ef98c2abad7424976/Week_5/PCA_for_classification.ipynb)
 
 ### Week 6: Cassification Social Network Ads.
-- Bước 1: Đọc dữ liệu từ file .csv.
-- Bước 2: Phân chia dữ liệu thành tập train và tập test theo tỉ lệ 8:2.
-- Bước 3: Chuẩn hóa dữ liệu.
-- Bước 4: Khởi tạo và huấn luyện các mô hình.
-- Bước 5: Infer và đánh giá mô hình với độ đo accuracy.
-- Bước 6: Trực quan hóa kết quả của mô hình vừa huấn luyện.
-- Bài tập: [Cassification Social Network Ads.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/e128551e73927f2b0f1f7c1fa1d4c81d0d49b04a/Week_6/Cassification_Social_Network_Ads.ipynb)
+  - Bước 1: Đọc dữ liệu từ file .csv.
+  - Bước 2: Phân chia dữ liệu thành tập train và tập test theo tỉ lệ 8:2.
+  - Bước 3: Chuẩn hóa dữ liệu.
+  - Bước 4: Khởi tạo và huấn luyện các mô hình.
+  - Bước 5: Infer và đánh giá mô hình với độ đo accuracy.
+  - Bước 6: Trực quan hóa kết quả của mô hình vừa huấn luyện.
+  - Bài tập: [Cassification Social Network Ads.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/e128551e73927f2b0f1f7c1fa1d4c81d0d49b04a/Week_6/Cassification_Social_Network_Ads.ipynb)
 
 ### Week 7: Mô Hình Linear Regression Đơn Và Đa Biến.
-- Bài tập: [Linear Regression Đơn Và Đa Biến.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/e6dfd22d013ffe03cdf50ccf59d6e41ef32f3d15/Week_7/Linear_Regression.ipynb)
+  - Bài tập: [Linear Regression Đơn Và Đa Biến.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/e6dfd22d013ffe03cdf50ccf59d6e41ef32f3d15/Week_7/Linear_Regression.ipynb)
+
+### Week 8: Xây Dựng Mô Hình Mạng Neural Network.
+  - Bước 1: Đọc dữ liệu từ file excel/csv.
+  - Bước 2: Chuẩn hóa các cột dữ liệu thuộc dạng không có tình thứ tự (dữ liệu rời rạc) thành dạng One Hot Encoding.
+  - Bước 4: Chuẩn hóa dữ liệu train bằng Standard Scaler.
+  - Bước 5: Xây dựng mô hình Mạng Neural Network bằng thư viện Keras và lớp đối tượng Dense, Input - 6 neurons/ReLU - 6 neurons/ReLU - 1 neuron / sigmoid.
+  - Bước 6: huấn luyện mạng với thuật toán Adam sử dụng hàm độ lỗi Binary Cross Entropy.
+  - Bước 7: Test và đánh giá kết quả.
+  - Bước 8: đánh giá độ chính xác bằng phương pháp KFold Cross Validation với k = 5.
+  - Bài tập: [Xây Dựng Mô Hình Mạng Neural Network.]()
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
