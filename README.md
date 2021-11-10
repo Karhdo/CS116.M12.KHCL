@@ -78,5 +78,7 @@
   - Bước 8: Đánh giá độ chính xác bằng phương pháp `KFold Cross Validation` với k = 5.
   - Bài tập: [Xây Dựng Mô Hình Mạng Neural Network.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/c50a69617ecfbc1dd2d324fb7f27d73281db30b6/Week_8/Deep_Learning.ipynb)
 
+### Week 9: Mạng CNN với kiến trúc MiniResNet.
+  - Bài tập: [MNIST use MiniResNet](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/c50a69617ecfbc1dd2d324fb7f27d73281db30b6/Week_8/Deep_Learning.ipynb)
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
