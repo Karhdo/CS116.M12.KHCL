@@ -43,18 +43,18 @@
 </tr>
   <table>
   
-  - Bài tập: [Thống kê dữ liệu ở TP-HCM](Week_2/Thống_kê_dân_số_TPHCM.ipynb) và [Hiện thị ranh giới các quận trên bản đồ](Week_2/Hiển_thị_ranh_giới_quận_trên_bản_đồ.ipynb).
+  - Bài tập: [Thống kê dữ liệu ở TP-HCM](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_2/Th%E1%BB%91ng_k%C3%AA_d%C3%A2n_s%E1%BB%91_TPHCM.ipynb) và [Hiện thị ranh giới các quận trên bản đồ](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_2/Hi%E1%BB%83n_th%E1%BB%8B_ranh_gi%E1%BB%9Bi_qu%E1%BA%ADn_tr%C3%AAn_b%E1%BA%A3n_%C4%91%E1%BB%93.ipynb).
   
 ### Week 3: Phân tích hành vi click với KMeans.
   &emsp;&emsp;&emsp;&emsp;<img height=400 src='https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/86b5b5443b473b67e8f0eb98ec18d037b949e7ba/Image/week3.png'></img>
   
-  - Bài tập: [Phân tích hành vi click của các quận của TP-HCM trên bản đồ.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/d3c6b14510918129373e294550cc6c9eb1d850c2/Week_3/Qu%C3%A1%20Tr%C3%ACnh/Pha%CC%82n_ti%CC%81ch_ha%CC%80nh_vi_click_vo%CC%9B%CC%81i_KMeans.ipynb)
+  - Bài tập: [Phân tích hành vi click của các quận của TP-HCM trên bản đồ.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_3/Ph%C3%A2n_t%C3%ADch_h%C3%A0nh_vi_click_v%E1%BB%9Bi_KMeans.ipynb)
 
 ### Week 4: Principal Component Analysis.
-  - Bài tập: [PCA normal.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/929302dfdf9b663c53215b91cf3e46f7170727fe/Week_4/Qu%C3%A1%20Tr%C3%ACnh/PCA_homework_normal.ipynb)
+  - Bài tập: [PCA normal.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_4/PCA_homework_normal.ipynb)
 
 ### Week 5: Use PCA for Logistic Regression.
-  - Bài tập: [PCA và Logistic Regression để phân loại rượu.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/2d4a945a324db20ed84f964ef98c2abad7424976/Qu%C3%A1%20Tr%C3%ACnh/Week_5/PCA_for_classification.ipynb)
+  - Bài tập: [PCA và Logistic Regression để phân loại rượu.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_5/PCA_for_classification.ipynb)
 
 ### Week 6: Cassification Social Network Ads.
   - Bước 1: Đọc dữ liệu từ file .csv.
@@ -63,10 +63,10 @@
   - Bước 4: Khởi tạo và huấn luyện các mô hình.
   - Bước 5: Infer và đánh giá mô hình với độ đo accuracy.
   - Bước 6: Trực quan hóa kết quả của mô hình vừa huấn luyện.
-  - Bài tập: [Cassification Social Network Ads.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/e128551e73927f2b0f1f7c1fa1d4c81d0d49b04a/Qu%C3%A1%20Tr%C3%ACnh/Week_6/Cassification_Social_Network_Ads.ipynb)
+  - Bài tập: [Cassification Social Network Ads.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_6/Cassification_Social_Network_Ads.ipynb)
 
 ### Week 7: Mô Hình Linear Regression Đơn Và Đa Biến.
-  - Bài tập: [Linear Regression Đơn Và Đa Biến.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/e6dfd22d013ffe03cdf50ccf59d6e41ef32f3d15/Qu%C3%A1%20Tr%C3%ACnh/Week_7/Linear_Regression.ipynb)
+  - Bài tập: [Linear Regression Đơn Và Đa Biến.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_7/Linear_Regression.ipynb)
 
 ### Week 8: Xây Dựng Mô Hình Mạng Neural Network.
   - Bước 1: Đọc dữ liệu từ file excel/csv.
@@ -76,7 +76,7 @@
   - Bước 6: Huấn luyện mạng với thuật toán `Adam` sử dụng hàm độ lỗi `Binary Cross Entropy`.
   - Bước 7: Test và đánh giá kết quả.
   - Bước 8: Đánh giá độ chính xác bằng phương pháp `KFold Cross Validation` với k = 5.
-  - Bài tập: [Xây Dựng Mô Hình Mạng Neural Network.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/c50a69617ecfbc1dd2d324fb7f27d73281db30b6/Qu%C3%A1%20Tr%C3%ACnh/Week_8/Deep_Learning.ipynb)
+  - Bài tập: [Xây Dựng Mô Hình Mạng Neural Network.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_8/Deep_Learning.ipynbb)
 
 ### Week 9: Mạng CNN với kiến trúc MiniResNet.
   - Bài tập: [MNIST use MiniResNet](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/f246025bde00f870bd4a410379aeb92458d337c8/Qu%C3%A1%20Tr%C3%ACnh/Week_9/CNN_MNIST.ipynb)
