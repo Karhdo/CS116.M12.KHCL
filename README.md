@@ -82,6 +82,6 @@
   - Bài tập: [MNIST use MiniResNet](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/11d0ad8cb10206598aa2a5a537bcb19ead3bd0c1/Week_9/CNN_MNIST.ipynb)
 
 ### Week 10: Parameters and Hyperparameter.
-  - Bài tập: [Cài đặt Grip Search để tiểm Hyperparameter.]()
+  - Bài tập: [Cài đặt Grip Search để tiểm Hyperparameter.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/535a89a64e5082a6108a355c9d7e512ccc0bf7bd/Week_10/Hyper_Parameter.ipynb)
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
