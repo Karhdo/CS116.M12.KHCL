@@ -79,7 +79,7 @@
   - Bài tập: [Xây Dựng Mô Hình Mạng Neural Network.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/c50a69617ecfbc1dd2d324fb7f27d73281db30b6/Qu%C3%A1%20Tr%C3%ACnh/Week_8/Deep_Learning.ipynb)
 
 ### Week 9: Mạng CNN với kiến trúc MiniResNet.
-  - Bài tập: [MNIST use MiniResNet](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/11d0ad8cb10206598aa2a5a537bcb19ead3bd0c1/Qu%C3%A1%20Tr%C3%ACnh/Week_9/CNN_MNIST.ipynb)
+  - Bài tập: [MNIST use MiniResNet](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/f246025bde00f870bd4a410379aeb92458d337c8/Qu%C3%A1%20Tr%C3%ACnh/Week_9/CNN_MNIST.ipynb)
 
 ### Week 10: Parameters and Hyperparameter.
   - Bài tập: [Cài đặt Grip Search để tiểm Hyperparameter.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/01fe7d7934e6772d7a8d3adfcb641b4eafee1b72/Qu%C3%A1%20Tr%C3%ACnh/Week_10/Hyper_Parameter.ipynb)
