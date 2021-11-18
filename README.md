@@ -80,5 +80,8 @@
 
 ### Week 9: Mạng CNN với kiến trúc MiniResNet.
   - Bài tập: [MNIST use MiniResNet](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/11d0ad8cb10206598aa2a5a537bcb19ead3bd0c1/Week_9/CNN_MNIST.ipynb)
+
+### Week 10: Parameters and Hyperparameter.
+  - Bài tập: [Cài đặt Grip Search để tiểm Hyperparameter.]()
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
