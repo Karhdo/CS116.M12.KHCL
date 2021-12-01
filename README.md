@@ -86,5 +86,8 @@
 
 ### Week 11: Tìm hiểu và thực hành XGBoots.
   - Bài tập: [XGBoots](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/5ca1657190e85174afeda9bb3040d5ddcd8f3b53/Qu%C3%A1%20Tr%C3%ACnh/Week_11/XGBoost.ipynb)
+
+### Week 12: Mạng CNN với kiến trúc VGG16
+  - Bài tập: [Trích xuất đặc trưng sử dụng VGG16]()
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
