@@ -43,18 +43,18 @@
 </tr>
   <table>
   
-  - Bài tập: [Thống kê dữ liệu ở TP-HCM](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_2/Th%E1%BB%91ng_k%C3%AA_d%C3%A2n_s%E1%BB%91_TPHCM.ipynb) và [Hiện thị ranh giới các quận trên bản đồ](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_2/Hi%E1%BB%83n_th%E1%BB%8B_ranh_gi%E1%BB%9Bi_qu%E1%BA%ADn_tr%C3%AAn_b%E1%BA%A3n_%C4%91%E1%BB%93.ipynb).
+  - Bài tập: [Thống kê dữ liệu ở TP-HCM](Progress/Week_2/Thống_kê_dân_số_TPHCM.ipynb) và [Hiện thị ranh giới các quận trên bản đồ.](Progress/Week_2/Hiển_thị_ranh_giới_quận_trên_bản_đồ.ipynb)
   
 ### Week 3: Phân tích hành vi click với KMeans.
   &emsp;&emsp;&emsp;&emsp;<img height=400 src='https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/86b5b5443b473b67e8f0eb98ec18d037b949e7ba/Image/week3.png'></img>
   
-  - Bài tập: [Phân tích hành vi click của các quận của TP-HCM trên bản đồ.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_3/Ph%C3%A2n_t%C3%ADch_h%C3%A0nh_vi_click_v%E1%BB%9Bi_KMeans.ipynb)
+  - Bài tập: [Phân tích hành vi click của các quận của TP-HCM trên bản đồ.](Progress/Week_3/Phân_tích_hành_vi_click_với_KMeans.ipynb)
 
 ### Week 4: Principal Component Analysis.
-  - Bài tập: [PCA normal.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_4/PCA_homework_normal.ipynb)
+  - Bài tập: [PCA normal.](Progress/Week_4/PCA_homework_normal.ipynb)
 
 ### Week 5: Use PCA for Logistic Regression.
-  - Bài tập: [PCA và Logistic Regression để phân loại rượu.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_5/PCA_for_classification.ipynb)
+  - Bài tập: [PCA và Logistic Regression để phân loại rượu.](Progress/Week_5/PCA_for_classification.ipynb)
 
 ### Week 6: Cassification Social Network Ads.
   - Bước 1: Đọc dữ liệu từ file .csv.
@@ -63,10 +63,10 @@
   - Bước 4: Khởi tạo và huấn luyện các mô hình.
   - Bước 5: Infer và đánh giá mô hình với độ đo accuracy.
   - Bước 6: Trực quan hóa kết quả của mô hình vừa huấn luyện.
-  - Bài tập: [Cassification Social Network Ads.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_6/Cassification_Social_Network_Ads.ipynb)
+  - Bài tập: [Cassification Social Network Ads.](Progress/Week_6/Cassification_Social_Network_Ads.ipynb)
 
 ### Week 7: Mô Hình Linear Regression Đơn Và Đa Biến.
-  - Bài tập: [Linear Regression Đơn Và Đa Biến.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_7/Linear_Regression.ipynb)
+  - Bài tập: [Linear Regression Đơn Và Đa Biến.](Progress/Week_7/Linear_Regression.ipynb)
 
 ### Week 8: Xây Dựng Mô Hình Mạng Neural Network.
   - Bước 1: Đọc dữ liệu từ file excel/csv.
@@ -76,18 +76,20 @@
   - Bước 6: Huấn luyện mạng với thuật toán `Adam` sử dụng hàm độ lỗi `Binary Cross Entropy`.
   - Bước 7: Test và đánh giá kết quả.
   - Bước 8: Đánh giá độ chính xác bằng phương pháp `KFold Cross Validation` với k = 5.
-  - Bài tập: [Xây Dựng Mô Hình Mạng Neural Network.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/890340933ec232156bfb451110e72b53f68ab470/Qu%C3%A1%20Tr%C3%ACnh/Week_8/Deep_Learning.ipynbb)
+  - Bài tập: [Xây Dựng Mô Hình Mạng Neural Network.](Progress/Week_8/Deep_Learning.ipynb)
 
 ### Week 9: Mạng CNN với kiến trúc MiniResNet.
-  - Bài tập: [MNIST use MiniResNet](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/f246025bde00f870bd4a410379aeb92458d337c8/Qu%C3%A1%20Tr%C3%ACnh/Week_9/CNN_MNIST.ipynb)
+  - Bài tập: [MNIST use MiniResNet](Progress/Week_9/CNN_MNIST.ipynb)
 
 ### Week 10: Parameters and Hyperparameter.
-  - Bài tập: [Cài đặt Grip Search để tiểm Hyperparameter.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/01fe7d7934e6772d7a8d3adfcb641b4eafee1b72/Qu%C3%A1%20Tr%C3%ACnh/Week_10/Hyper_Parameter.ipynb)
+  - Bài tập: [Cài đặt Grip Search để tiểm Hyperparameter.](Progress/Week_10/Hyper_Parameter.ipynb)
 
 ### Week 11: Tìm hiểu và thực hành XGBoots.
-  - Bài tập: [XGBoots.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/5ca1657190e85174afeda9bb3040d5ddcd8f3b53/Qu%C3%A1%20Tr%C3%ACnh/Week_11/XGBoost.ipynb)
+  - Bài tập: [XGBoots.](Progress/Week_11/XGBoost.ipynb)
 
 ### Week 12: Mạng CNN với kiến trúc VGG16
-  - Bài tập: [Trích xuất đặc trưng sử dụng VGG16.](https://github.com/trong-khanh-1109/CS116.M12.KHCL/blob/2317c940e4c821a0ac47bd7d219ad9bfbad841ea/Progress/Week_12/CNN_VGG16.ipynb)
+  - Bài tập: [Trích xuất đặc trưng sử dụng VGG16.](Progress/Week_12/CNN_VGG16.ipynb)
+
+## ĐỒ ÁN CUỐI KÌ
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
