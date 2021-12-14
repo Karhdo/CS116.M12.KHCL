@@ -91,5 +91,9 @@
   - Bài tập: [Trích xuất đặc trưng sử dụng VGG16.](Progress/Week_12/CNN_VGG16.ipynb)
 
 ## ĐỒ ÁN CUỐI KÌ
+  - Tên đề tài: Decision Tree Classifier.
+  - File báo cáo: [Final Report.]()
+  - Code: [Cardiovascular_Disease_Predict.ipynb]()
+  - Dataset: [Cardiovascular Disease Dataset.](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
