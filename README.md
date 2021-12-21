@@ -93,7 +93,11 @@
 ## ĐỒ ÁN CUỐI KÌ
   - Tên đề tài: Decision Tree Classifier.
   - File báo cáo: [Final Report.]()
+### Cardiovascular Disease Predict
   - Code: [Cardiovascular_Disease_Predict.ipynb](Final_Project/Source_Code/Cardiovascular_Disease_Predict.ipynb)
   - Dataset: [Cardiovascular Disease Dataset.](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+### Stroke Prediction Dataset
+  - Code: [Stroke_Prediction.ipynb](Final_Project/Source_Code/Stroke_Prediction.ipynb)
+  - Dataset: [Stroke Prediction Dataset.](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
