@@ -91,12 +91,14 @@
   - Bài tập: [Trích xuất đặc trưng sử dụng VGG16.](Progress/Week_12/CNN_VGG16.ipynb)
 
 ## ĐỒ ÁN CUỐI KÌ
+### Giới thiệu đề tài
   - Tên đề tài: Decision Tree Classifier.
   - File báo cáo: [Final Report.]()
-### Cardiovascular Disease Predict
+### Thực nghiệm
+#### Cardiovascular Disease Predict
   - Code: [Cardiovascular_Disease_Predict.ipynb](Final_Project/Source_Code/Cardiovascular_Disease_Predict.ipynb)
   - Dataset: [Cardiovascular Disease Dataset.](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
-### Stroke Prediction Dataset
+#### Stroke Prediction Dataset
   - Code: [Stroke_Prediction.ipynb](Final_Project/Source_Code/Stroke_Prediction.ipynb)
   - Dataset: [Stroke Prediction Dataset.](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 <!-- Footer -->
