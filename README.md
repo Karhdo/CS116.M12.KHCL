@@ -90,7 +90,7 @@
 ### Week 12: Mạng CNN với kiến trúc VGG16
   - Bài tập: [Trích xuất đặc trưng sử dụng VGG16.](Progress/Week_12/CNN_VGG16.ipynb)
 
-## ĐỒ ÁN CUỐI KÌ
+## ĐỒ ÁN CUỐI KÌ - DECISION TREE CLASSIFIER
 ### Giới thiệu đề tài
   - Tên đề tài: Decision Tree Classifier.
   - File báo cáo: [Final Report.](Final_Project/Final_Report.pdf)
