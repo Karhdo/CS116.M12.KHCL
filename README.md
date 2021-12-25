@@ -93,7 +93,7 @@
 ## ĐỒ ÁN CUỐI KÌ
 ### Giới thiệu đề tài
   - Tên đề tài: Decision Tree Classifier.
-  - File báo cáo: [Final Report.]()
+  - File báo cáo: [Final Report.](Final_Project/Final_Report.pdf)
 ### Thực nghiệm
 #### Cardiovascular Disease Predict
   - Code: [Cardiovascular_Disease_Predict.ipynb](Final_Project/Source_Code/Cardiovascular_Disease_Predict.ipynb)
